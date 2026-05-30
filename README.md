@@ -47,7 +47,7 @@ Ouverture de l'environnement de script intégré (PowerShell ISE) en mode Admini
 
 | A. Script de Provisioning chargé dans l'ISE | B. Visualisation des logs de création en console |
 | :---: | :---: |
-| ![A. Script de Provisioning chargé dans l'ISE](captures/Exécution du script de peuplement AD-1.png) | ![B. Visualisation des logs de création en console](captures/Ex%C3%A9cution%20du%20script%20de%20peuplement%20AD-2.png) |
+| ![A. Script de Provisioning chargé dans l'ISE](/captures/Exécution du script de peuplement AD-1.png) | ![B. Visualisation des logs de création en console](/captures/Ex%C3%A9cution%20du%20script%20de%20peuplement%20AD-2.png) |
 
 ---
 
