@@ -68,3 +68,4 @@ L'analyse des propriétés d'un groupe spécifique (Exemple : groupe *Médical*)
 Exécution des requêtes système traditionnelles `net user` et `net group` pour lister à plat les nouveaux objets de sécurité créés sur le serveur de l'infrastructure `\\DC01`.
 
 ![C. Extraction des Objets de l'Annuaire en Ligne de Commande (CLI)](captures/Ex%C3%A9cution%20du%20script%20de%20peuplement%20AD-5.png)
+](https://github.com/jefferson-damba/exercice-02-active-directory/tree/9f50ed3e2a73f12190acf414fa05fb2e2044b0f3/captures)
